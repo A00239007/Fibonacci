@@ -57,37 +57,5 @@ public class FibonacciGeneratorTest extends TestCase {
 		}
 	}
 	
-	//Test: 004
-	//Objective: Testing if the value inputed is a string
-	//Input(s): g
-	//Output(s): Exception
 	
-	public void testFibonacciGenerator004()
-	{
-		FibonacciGenerator testObj = new FibonacciGenerator()
-		try
-		{
-			
-		}
-	}
-	
-	//Test:
-	//Objective:
-	//Input(s):
-	//Output(s):
-	
-	//Test:
-	//Objective:
-	//Input(s):
-	//Output(s):
-	
-	//Test:
-	//Objective:
-	//Input(s):
-	//Output(s):
-	
-	//Test:
-	//Objective:
-	//Input(s):
-	//Output(s):
 }
